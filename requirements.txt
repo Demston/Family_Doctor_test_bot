@@ -1,0 +1,4 @@
+openpyxl
+telebot
+telebot.types
+os
